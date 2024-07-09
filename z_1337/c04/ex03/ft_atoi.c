@@ -16,7 +16,7 @@
 
 void	skip_spacese(char *str, int *i, int *xsign)
 {
-	while (str[*i] <= 32)
+	while ((str[*i] >= 9 && str[*i] <= 13) || str[*i] == 32)
 	{
 		(*i)++;
 	}
