@@ -9,20 +9,23 @@ Welcome to my repository containing all the work I completed during the 1337 Pis
 
 ## Repository Structure
 
-- **days/**: Contains all the work organized by the days of the Piscine.
-  - **Rush/**: Contains the Rush project files.
-    - `ft_putchar.c`, `main.c`, `rush0X.c`: Implementation files for the Rush project.
-    - `a.out`: Compiled binary for the project.
-  - **Rush01/**: Contains another Rush project with additional files.
-    - `Traversal.c`, `backtrack.c`, `checking2d.c`, etc.: Implementation files for the Rush01 project.
-  - **c00/ - c08/**: Contains various exercises from the Piscine days, organized by module (c00 to c08).
-    - `ex00/` to `ex07/`: Each directory contains a specific exercise from that day's module, with corresponding C source files.
-  - **shell00/** and **shell01/**: Contains shell scripting exercises.
-    - `print_groups.sh`, `find_sh.sh`, `count_files.sh`, etc.: Bash scripts written as part of the Shell module exercises.
-
-- **pointers/**: Contains files related to pointer exercises and projects.
-  - `c.c`, `n.c`: C source files focusing on pointer manipulation.
-  - `a.out`: Compiled binary for the pointer project.
+| Directory/Path         | Description                                      |
+|------------------------|--------------------------------------------------|
+| `README.md`            | Main README file for the repository.             |
+| `days/Rush/`           | Contains files related to the Rush project.      |
+| `days/Rush01/ex00/`    | Various C files for the Rush01 project.          |
+| `days/c00/`            | Contains exercises for the c00 project.          |
+| `days/c01/`            | Contains exercises for the c01 project.          |
+| `days/c02/`            | Contains exercises for the c02 project.          |
+| `days/c03/`            | Contains exercises for the c03 project.          |
+| `days/c04/`            | Contains exercises for the c04 project.          |
+| `days/c05/`            | Contains exercises for the c05 project.          |
+| `days/c06/`            | Contains exercises for the c06 project.          |
+| `days/c07/`            | Contains exercises for the c07 project.          |
+| `days/c08/`            | Contains exercises for the c08 project.          |
+| `days/shell00/`        | Contains exercises for the shell00 project.      |
+| `days/shell01/`        | Contains exercises for the shell01 project.      |
+| `pointers/`            | Miscellaneous C files related to pointers.       |
 
 ## Overview
 
@@ -30,15 +33,15 @@ This repository is a comprehensive collection of the projects and exercises I co
 
 ### C Programming Exercises
 
-The **c00** to **c08** directories contain various exercises designed to build a strong foundation in C programming. These exercises cover everything from basic output functions to more complex algorithms like recursive functions, string manipulation, and data structures.
+    The **c00** to **c08** directories contain various exercises designed to build a strong foundation in C programming. These exercises cover everything from basic output functions to more complex algorithms like recursive functions, string manipulation, and data structures.
 
 ### Shell Scripting
 
-The **shell00** and **shell01** directories focus on mastering the Unix shell. The exercises range from basic commands to more advanced scripting techniques.
+    The **shell00** and **shell01** directories focus on mastering the Unix shell. The exercises range from basic commands to more advanced scripting techniques.
 
 ### Rush Projects
 
-The **Rush** and **Rush01** directories are where I implemented more extensive projects, combining the skills learned throughout the Piscine. These projects were designed to test both individual coding skills and teamwork.
+    The **Rush** and **Rush01** directories are where I implemented more extensive projects, combining the skills learned throughout the Piscine. These projects were designed to test both individual coding skills and teamwork.
 
 ## How to Use
 
