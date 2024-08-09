@@ -1,5 +1,9 @@
 
-# 1337 Piscine Work Repository
+# 1337-MED
+
+![will](https://media1.tenor.com/m/aw0Ne60z4bYAAAAC/usds-sable-finance.gif)
+
+## Overview
 
 Welcome to my repository containing all the work I completed during the 1337 Piscine. This repository is organized by the different "days" or modules of the Piscine, including various C programming exercises, shell scripts, and other projects.
 
