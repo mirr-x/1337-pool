@@ -1,6 +1,49 @@
 
 # 1337-MED
 
+![will](image/x.png)
+
+## PROJECTS
+<div align="center">
+	
+| Shell Project | Grade |
+| :--- | :--- |
+| [Piscine Shell 00] | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
+| [Piscine Shell 01] | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
+
+| C Project | Grade |
+| :--- | :--- |
+| [Piscine C 00]() | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/> |
+| [Piscine C 01]() | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
+| [Piscine C 02]() | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/> |
+| [Piscine C 03]() | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/> |
+| [Piscine C 04]() | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/> |
+| [Piscine C 05]() | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/> |
+| [Piscine C 06]() | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
+| [Piscine C 07]() | <img src="https://img.shields.io/badge/60%20%2F%20100-success"/> |
+| [Piscine C 08]() | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
+
+| Rush Project | Grade |
+| :--- | :--- |
+| [Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/score-100%20%2F%20100-red"/> |
+| [Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> |
+</div>
+	
+## EXAMS
+<div align="center">
+
+| Exam Rank | Language | Finish Date | Grade | Time |
+| :--- | :--- | :--- | :--- | :--- |
+| Exam 00 | `C` | 30-09-2022 | <img src="https://img.shields.io/badge/80%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Exam 01 | `C` | 07-10-2022 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Exam 02 | `C` | 14-10-2022 | <img src="https://img.shields.io/badge/90%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Final Exam | `C` | 21-10-2022 | <img src="https://img.shields.io/badge/72%20%2F%20100%20%E2%98%85-sucess"/> | `8 hours` |
+
+</div>
+
+
+---
+
 ![will](https://media1.tenor.com/m/aw0Ne60z4bYAAAAC/usds-sable-finance.gif)
 
 ## Overview
@@ -57,47 +100,7 @@ For shell scripts, simply navigate to the appropriate directory and execute them
 ```bash
 ./script_name.sh
 ```
----
 
-![will](image/x.png)
-
-## PROJECTS
-<div align="center">
-	
-| Shell Project | Grade |
-| :--- | :--- |
-| [Piscine Shell 00] | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
-| [Piscine Shell 01] | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
-
-| C Project | Grade |
-| :--- | :--- |
-| [Piscine C 00]() | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/> |
-| [Piscine C 01]() | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
-| [Piscine C 02]() | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/> |
-| [Piscine C 03]() | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/> |
-| [Piscine C 04]() | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/> |
-| [Piscine C 05]() | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/> |
-| [Piscine C 06]() | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
-| [Piscine C 07]() | <img src="https://img.shields.io/badge/60%20%2F%20100-success"/> |
-| [Piscine C 08]() | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |
-
-| Rush Project | Grade |
-| :--- | :--- |
-| [Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/score-100%20%2F%20100-red"/> |
-| [Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> |
-</div>
-	
-## EXAMS
-<div align="center">
-
-| Exam Rank | Language | Finish Date | Grade | Time |
-| :--- | :--- | :--- | :--- | :--- |
-| Exam 00 | `C` | 30-09-2022 | <img src="https://img.shields.io/badge/80%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Exam 01 | `C` | 07-10-2022 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Exam 02 | `C` | 14-10-2022 | <img src="https://img.shields.io/badge/90%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Final Exam | `C` | 21-10-2022 | <img src="https://img.shields.io/badge/72%20%2F%20100%20%E2%98%85-sucess"/> | `8 hours` |
-
-</div>
 
 ## Conclusion
 
