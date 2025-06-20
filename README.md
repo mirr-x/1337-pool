@@ -34,10 +34,10 @@
 
 | Exam Rank | Language | Finish Date | Grade | Time |
 | :--- | :--- | :--- | :--- | :--- |
-| Exam 00 | `C` | 30-09-2022 | <img src="https://img.shields.io/badge/80%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Exam 01 | `C` | 07-10-2022 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Exam 02 | `C` | 14-10-2022 | <img src="https://img.shields.io/badge/90%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Final Exam | `C` | 21-10-2022 | <img src="https://img.shields.io/badge/72%20%2F%20100%20%E2%98%85-sucess"/> | `8 hours` |
+| Exam 00 | `C` | 30-09-2024 | <img src="https://img.shields.io/badge/80%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Exam 01 | `C` | 07-10-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Exam 02 | `C` | 14-10-2024 | <img src="https://img.shields.io/badge/90%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Final Exam | `C` | 21-10-2024 | <img src="https://img.shields.io/badge/72%20%2F%20100%20%E2%98%85-sucess"/> | `8 hours` |
 
 </div>
 
